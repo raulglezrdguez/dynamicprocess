@@ -1,0 +1,24 @@
+.Home .lander {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.Home .lander p {
+  color: #999;
+}
+
+.Home .lander div {
+  padding: 20px;
+}
+
+.Home .lander div a:first-child {
+  margin-right: 20px;
+}
+
+h3 {
+  font-size: 4vh;
+}
+
+p {
+  font-size: 3vh;
+}

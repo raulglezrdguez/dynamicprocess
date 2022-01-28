@@ -1,0 +1,37 @@
+.AdmonProcess {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-items: center;
+  align-content: center;
+
+  padding: .3em;
+
+}
+
+.divProcessList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-items: flex-start;
+
+  padding: .3em;
+}
+
+
+
+.ProcessList {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-items: center;
+  align-content: center;
+
+  padding: .3em;
+}

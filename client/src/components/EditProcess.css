@@ -1,0 +1,15 @@
+.EditProcess {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-items: center;
+  align-content: center;
+
+}
+
+.tabEditProcess {
+  padding: .3em;
+  margin: .3em;
+}

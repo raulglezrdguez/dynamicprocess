@@ -1,0 +1,27 @@
+.EditField {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  border: 1px solid #999999;
+  border-radius: .5em;
+
+  padding: .3em;
+  margin: .3em;
+
+}
+
+.divEditField {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  border: 1px solid #999999;
+  border-radius: .5em;
+
+  padding: .3em;
+  margin: .3em;
+
+}

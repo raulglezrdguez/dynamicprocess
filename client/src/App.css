@@ -1,0 +1,107 @@
+body{
+  background-color: #000;
+}
+
+.App {
+  text-align: center;
+  font-family: "ubunturegular";
+
+  background-color: #000;
+  color: white;
+  font-size: calc(10px + 2vmin);
+  padding: 1vh;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #000;
+  min-height: 50vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-body {
+  background-color: #000;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.App-footer {
+  background-color: #111;
+  border: 1px solid #222;
+  border-radius: 1vh;
+  height: 5vh;
+  padding: 1vh;
+  margin: 1vh;
+  color: #555;
+}
+
+.App-footer p {
+  font-size: 2vh;
+}
+
+
+/*
+Para todos los componentes
+*/
+.Column {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
+  align-items: center;
+  align-content: center;
+
+  padding: .3em;
+  margin: .3em;
+}
+
+.Row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
+  align-items: center;
+  align-content: center;
+
+  padding: .3em;
+  margin: .3em;
+}
+
+.Border {
+  border: 1px solid #999999;
+  border-radius: .5em;
+}

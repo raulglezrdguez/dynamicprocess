@@ -1,0 +1,11 @@
+.EditTable {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.tabEditTable {
+  padding: .3em;
+  margin: .3em;
+}

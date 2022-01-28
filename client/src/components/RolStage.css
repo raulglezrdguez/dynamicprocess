@@ -1,0 +1,38 @@
+.RolStage {
+  background-color: #000;
+}
+
+.RolStageBody {
+  background-color: #000;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.RolStageArrows {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: stretch;
+
+  padding: .3em;
+  margin: .3em;
+
+}
+
+.RolStageBlock {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: stretch;
+
+  padding: .3em;
+  margin: .3em;
+
+}

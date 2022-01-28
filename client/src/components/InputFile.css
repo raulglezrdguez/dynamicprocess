@@ -1,0 +1,17 @@
+.InputFile {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+
+  border: 1px solid #ddd;
+  border-radius: .5em;
+  padding: .5em 1em;
+}
+
+.InputFile-name {
+  border: 1px solid #ddd;
+  border-radius: .5em;
+  padding: .5em 1em;
+}

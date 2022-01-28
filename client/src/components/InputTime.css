@@ -1,0 +1,12 @@
+.InputTime {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+  border: 1px solid #ddd;
+  border-radius: .5em;
+  padding: .5em 1em;
+
+}

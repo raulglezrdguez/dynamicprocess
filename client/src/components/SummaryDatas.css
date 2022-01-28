@@ -1,0 +1,20 @@
+.SummaryDatas {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  align-items: flex-start;
+  align-content: space-around;
+
+  border: 1px solid #999999;
+  border-radius: .5em;
+
+  padding: .3em;
+  margin: .3em;
+
+}
+
+.SummaryRefresh {
+  align-self: center;
+}

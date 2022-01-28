@@ -1,0 +1,36 @@
+.AdmonTables {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-items: center;
+  align-content: center;
+
+  padding: .3em;
+
+}
+
+.divTablesList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-items: flex-start;
+
+  padding: .3em;
+}
+
+
+.TablesList {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-items: center;
+  align-content: center;
+
+  padding: .3em;
+}

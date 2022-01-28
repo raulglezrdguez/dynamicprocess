@@ -1,0 +1,12 @@
+.Login {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
+  align-items: center;
+  align-content: center;
+
+  padding: 1em;
+
+}

@@ -1,0 +1,30 @@
+.Column {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
+  align-items: center;
+  align-content: center;
+
+  padding: .3em;
+  margin: .3em;
+}
+
+.Row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
+  align-items: center;
+  align-content: center;
+
+  padding: .3em;
+  margin: .3em;
+}
+
+.Border {
+  border: 1px solid #999999;
+  border-radius: .5em;
+}

@@ -1,0 +1,11 @@
+.Pagination {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+
+}
+
+.PaginationItem {
+  margin: 0 .2em;
+}

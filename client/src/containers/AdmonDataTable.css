@@ -1,0 +1,66 @@
+.AdmonDataTable {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
+  align-items: center;
+  align-content: center;
+
+  padding: .3em;
+}
+
+.DataTableList {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-items: center;
+  align-content: center;
+
+  border: 1px solid #999999;
+  border-radius: .5em;
+
+  padding: .3em;
+  margin: .3em;
+}
+
+.DataTableFormHeader {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-items: center;
+  align-content: center;
+
+  padding: .3em;
+}
+
+.divTablesList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-items: flex-start;
+  align-content: flex-start;
+
+  padding: .3em;
+}
+
+tr {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  margin: .3em;
+}
+
+td, th {
+  background-color: #333;
+  padding: .3em;
+  border: 1px solid #999999;
+  border-radius: .2em;
+}

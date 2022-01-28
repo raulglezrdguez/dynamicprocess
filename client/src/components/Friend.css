@@ -1,0 +1,38 @@
+.Friend {
+  background-color: #000;
+}
+
+.FriendBody {
+  background-color: #000;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.FriendArrows {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: stretch;
+
+  padding: .3em;
+  margin: .3em;
+
+}
+
+.FriendBlock {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: stretch;
+
+  padding: .3em;
+  margin: .3em;
+
+}

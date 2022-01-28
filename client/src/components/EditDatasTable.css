@@ -1,0 +1,12 @@
+.EditDatasTable {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  align-items: flex-start;
+  align-content: flex-start;
+
+  padding: .3em;
+
+}

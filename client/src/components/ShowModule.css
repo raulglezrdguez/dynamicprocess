@@ -1,0 +1,27 @@
+.ShowModule {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  border: 1px solid #999999;
+  border-radius: .5em;
+
+  padding: .3em;
+  margin: .3em;
+
+  min-width: 15em;
+}
+
+.ShowModuleDesc {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  padding: .5em;
+}
+
+.bbutton {
+  margin: 10px;
+}

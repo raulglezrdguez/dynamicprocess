@@ -1,0 +1,35 @@
+.AdmonModules {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-items: center;
+  align-content: center;
+
+  padding: .3em;
+}
+
+.divModulesList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-items: flex-start;
+
+  padding: .3em;
+}
+
+
+.ModulesList {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-items: center;
+  align-content: center;
+
+  padding: .3em;
+}

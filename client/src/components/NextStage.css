@@ -1,0 +1,38 @@
+.NextStage {
+  background-color: #000;
+}
+
+.NextStageBody {
+  background-color: #000;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.NextStageArrows {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: stretch;
+
+  padding: .3em;
+  margin: .3em;
+
+}
+
+.NextStageBlock {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: stretch;
+
+  padding: .3em;
+  margin: .3em;
+
+}
